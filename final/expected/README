@@ -1,0 +1,18 @@
+Descrição dos testes:
+
+A-11-01 - Criar projeto P1 na disciplina PO
+A-11-02 - Criar inquerito e tentar abrir com projeto aberto
+A-11-03 - Aluno interage inquerito, submete projeto, e interage inquerito
+A-11-04 - Professor ve submissoes, fecha projeto e ve inquerito
+A-11-05 - Delegado fecha survey (que nao tem respostas)
+A-11-06 - Aluno ve survey (que nao tem respostas)
+A-11-07 - Professor ve survey (que nao tem respostas)
+
+A-12-01 - Criar projeto P1 na disciplina PO
+A-12-02 - Criar inquerito e tentar abrir com projeto aberto
+A-12-03 - Aluno interage inquerito, submete projeto, e interage inquerito
+A-12-04 - Delegado submete projeto
+A-12-05 - Professor fecha projeto
+A-12-06 - Aluno responde ao inquerito
+A-12-07 - Delegado responde ao inquerito, fecha-o, finaliza-o e ve-o como delegado e como aluno
+A-12-08 - Professor ve inquerito

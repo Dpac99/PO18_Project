@@ -1,0 +1,24 @@
+FUNCIONÁRIO|100001|123789456|Maria José
+DELEGADO|100010|123456789|Carlos Manuel Maria
+# Informática|Algoritmos e Estruturas de Dados
+# Informática|Fundamentos da Programação
+# Informática|Programação com Objectos
+DELEGADO|100011|123456789|Jorge Manuel
+# Informática|Algoritmos e Estruturas de Dados
+# Informática|Fundamentos da Programação
+# Informática|Programação com Objectos
+DELEGADO|100012|123456789|João Miguel
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+# Matemática|Probabilidades e Estatística
+ALUNO|100013|123456789|José Manuel
+# Matemática|Análise Numérica
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+# Matemática|Probabilidades e Estatística
+DOCENTE|100100|987654321|Ana Maria
+# Informática|Análise e Síntese de Algoritmos
+# Informática|Compiladores
+# Informática|Engenharia de Software
+# Informática|Sistemas Operativos
+FUNCIONÁRIO|101010|789456123|José Carlos

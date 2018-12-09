@@ -1,0 +1,19 @@
+DELEGADO|100001|123456789|João Miguel
+# Matemática|A
+# Matemática|Probabilidades e Estatística
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+ALUNO|100002|123456789|José Manuel
+# Matemática|A
+# Matemática|Probabilidades e Estatística
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+DOCENTE|100003|987654321|Ana Maria
+# Matemática|A
+# Informática|Análise e Síntese de Algoritmos
+FUNCIONÁRIO|101010|789456123|José Carlos
+DELEGADO|100004|123456789|João Pedro
+# Matemática|Probabilidades e Estatística
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+

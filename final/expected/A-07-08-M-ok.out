@@ -1,0 +1,143 @@
+Identificador: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal Pessoal
+1 - Mostrar pessoa
+2 - Alterar número de telefone
+3 - Mostrar pessoas
+4 - Procurar pessoa
+0 - Sair
+Escolha uma opção: DELEGADO|100010|123456789|João Maria
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100011|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100021|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100031|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100041|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100051|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100061|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+ALUNO|100062|123456789|João A. Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100072|123456789|João Miguel
+* Matemática - Cálculo I
+* Matemática - Métodos Numéricos
+DELEGADO|100073|123456789|José Manuel
+* Matemática - Métodos Numéricos
+* Matemática - Probabilidades e Estatística
+DOCENTE|100100|987654321|Ana Maria
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Compiladores
+* Informática - Engenharia de Software
+* Informática - Sistemas Operativos
+FUNCIONÁRIO|100101|123789456|Maria José
+FUNCIONÁRIO|101010|789456123|José Carlos
+Portal Pessoal
+1 - Mostrar pessoa
+2 - Alterar número de telefone
+3 - Mostrar pessoas
+4 - Procurar pessoa
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: DELEGADO|100010|123456789|João Maria
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100011|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100021|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100031|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100041|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100051|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+DELEGADO|100061|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+ALUNO|100062|123456789|João A. Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Fundamentos da Programação
+Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: Nome do projecto: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: Nome do projecto: Criar projecto: Operação inválida: O projecto 'Compiladores' já existe na disciplina 'Compiladores'.
+Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: Nome do projecto: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: Nome do projecto: Fechar projecto: Operação inválida: O projecto 'dasdas' não existe na disciplina 'Compiladores'.
+Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: 

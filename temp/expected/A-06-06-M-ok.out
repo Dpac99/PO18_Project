@@ -1,0 +1,94 @@
+Identificador: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Ficheiro a abrir: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal Pessoal
+1 - Mostrar pessoa
+2 - Alterar número de telefone
+3 - Mostrar pessoas
+4 - Procurar pessoa
+0 - Sair
+Escolha uma opção: FUNCIONÁRIO|100001|123789456|Maria José
+DELEGADO|100010|123456789|João Maria
+* Informática - Algoritmos e Estruturas de Dados
+DELEGADO|100011|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+DELEGADO|100012|123456789|João Miguel
+* Matemática - Cálculo I
+ALUNO|100013|123456789|José Manuel
+* Matemática - Cálculo I
+DOCENTE|100100|987654321|Ana Maria
+* Informática - Algoritmos e Estruturas de Dados
+FUNCIONÁRIO|101010|789456123|José Carlos
+Portal Pessoal
+1 - Mostrar pessoa
+2 - Alterar número de telefone
+3 - Mostrar pessoas
+4 - Procurar pessoa
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: Nome do projecto: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal Pessoal
+1 - Mostrar pessoa
+2 - Alterar número de telefone
+3 - Mostrar pessoas
+4 - Procurar pessoa
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: 

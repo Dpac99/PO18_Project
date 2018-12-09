@@ -1,0 +1,27 @@
+FUNCIONÁRIO|100001|123789456|Maria José
+DELEGADO|100010|123456789|João Maria
+# Informática|Fundamentos da Programação
+# Informática|Algoritmos e Estruturas de Dados
+# Informática|Programação com Objectos
+# Informática|Análise e Síntese de Algoritmos
+DELEGADO|100011|123456789|João Manuel
+# Informática|Fundamentos da Programação
+# Informática|Algoritmos e Estruturas de Dados
+# Informática|Programação com Objectos
+# Informática|Análise e Síntese de Algoritmos
+DELEGADO|100012|123456789|João Miguel
+# Matemática|Álgebra Linear
+# Matemática|Probabilidades e Estatística
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+ALUNO|100013|123456789|José Manuel
+# Matemática|Álgebra Linear
+# Matemática|Probabilidades e Estatística
+# Matemática|Cálculo I
+# Matemática|Métodos Numéricos
+DOCENTE|100100|987654321|Zulmira Dias Maria
+# Informática|Análise e Síntese de Algoritmos
+DOCENTE|100104|987654321|Ana Maria
+# Informática|Análise e Síntese de Algoritmos
+# Matemática|Álgebra Linear
+FUNCIONÁRIO|101010|789456123|José Carlos

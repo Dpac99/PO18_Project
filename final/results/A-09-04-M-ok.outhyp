@@ -1,0 +1,47 @@
+Identificador: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Nome da disciplina: DELEGADO|100008|123456789|Joaquim Maria
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Análise e Síntese de Algoritmos
+* Informática - Fundamentos da Programação
+* Informática - Programação com Objectos
+DELEGADO|100009|123456789|João Maria
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Análise e Síntese de Algoritmos
+* Informática - Fundamentos da Programação
+* Informática - Programação com Objectos
+DELEGADO|100010|123456789|António Marques
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Análise e Síntese de Algoritmos
+* Informática - Fundamentos da Programação
+* Informática - Programação com Objectos
+DELEGADO|100011|123456789|João Manuel
+* Informática - Algoritmos e Estruturas de Dados
+* Informática - Análise e Síntese de Algoritmos
+* Informática - Fundamentos da Programação
+* Informática - Programação com Objectos
+Portal do Docente
+1 - Criar projecto
+2 - Fechar projecto
+3 - Ver submissões de um projecto
+4 - Ver alunos de disciplina leccionada
+5 - Ver resultados de um inquérito
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Abrir
+2 - Guardar
+3 - Portal Pessoal
+4 - Portal do Docente
+0 - Sair
+Escolha uma opção: 
